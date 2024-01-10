@@ -1,1 +1,2 @@
-This is a coffee blog, website where you can interact by clicking on coffee tutorials, information, contact, etc.
+This is a coffee blog, website where you can interact by clicking on coffee tutorials, information, contact, etc. (Use CSS and HTML5 )
+
